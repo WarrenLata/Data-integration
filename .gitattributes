@@ -1,0 +1,2 @@
+GHOO filter=lfs diff=lfs merge=lfs -text
+omim.txt filter=lfs diff=lfs merge=lfs -text
